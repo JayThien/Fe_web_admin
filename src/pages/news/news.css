@@ -1,0 +1,4 @@
+.p-datatable-tbody tr:hover { 
+    color: rgb(255, 135, 8) !important;
+    cursor: pointer;
+}
